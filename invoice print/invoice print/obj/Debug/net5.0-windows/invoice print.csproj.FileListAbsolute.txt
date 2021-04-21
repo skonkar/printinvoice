@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.exe
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.deps.json
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.runtimeconfig.json
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.runtimeconfig.dev.json
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.dll
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\ref\invoice print.dll
+C:\Users\HP\source\repos\invoice print\invoice print\bin\Debug\net5.0-windows\invoice print.pdb
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice_print.Form1.resources
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice_print.Properties.Resources.resources
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.AssemblyInfo.cs
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.dll
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\ref\invoice print.dll
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.pdb
+C:\Users\HP\source\repos\invoice print\invoice print\obj\Debug\net5.0-windows\invoice print.genruntimeconfig.cache
